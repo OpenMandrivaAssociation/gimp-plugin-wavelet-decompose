@@ -3,7 +3,7 @@
 Summary:	Gimp plugin to decomposes a layer into layers of wavelet scales
 Name:		gimp-plugin-%{sname}
 Version:	0.1.2
-Release:	1
+Release:	2
 Group:		Graphics
 License:	GPLv2
 Url:		http://registry.gimp.org/node/11742
