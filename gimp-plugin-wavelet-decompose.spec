@@ -6,7 +6,7 @@ Version:	0.1.2
 Release:	2
 Group:		Graphics
 License:	GPLv2
-Url:		http://registry.gimp.org/node/11742
+Url:		https://registry.gimp.org/node/11742
 Source:		http://registry.gimp.org/files/%{sname}-%{version}.tar.gz
 BuildRequires:	pkgconfig(gimp-2.0)
 Requires:	gimp
